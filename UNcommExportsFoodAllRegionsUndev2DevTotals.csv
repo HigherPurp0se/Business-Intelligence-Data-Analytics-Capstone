@@ -1,0 +1,164 @@
+CountryCode,Country,Year,PeriodInDate,CommodityGroup,CountryImportCode,CountryImport,Value
+9700,Eastern Asia,2001,01/01/2001,Total,9100,Developed Economies,380444650646.804
+9600,Latin America and the Caribbean,2003,01/01/2003,Total,9100,Developed Economies,271551686806.412
+9600,Latin America and the Caribbean,2000,01/01/2000,Total,9100,Developed Economies,265393919202.723
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,9100,Developed Economies,252930122212.784
+9610,Latin America,2002,01/01/2002,Total,9100,Developed Economies,243213831611.316
+9610,Latin America,2000,01/01/2000,Total,9130,North America,208094330406.979
+9610,Latin America,2000,01/01/2000,Total,842,USA,202332412737.268
+9730,South-Eastern Asia,2002,01/01/2002,Total,9100,Developed Economies,197177514568.083
+9610,Latin America,2003,01/01/2003,Total,842,USA,197023424223.751
+9700,Eastern Asia,2003,01/01/2003,Total,842,USA,196745613123.022
+9600,Latin America and the Caribbean,2001,01/01/2001,Total,9130,North America,196615113979.053
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,842,USA,196024451294.637
+9610,Latin America,2002,01/01/2002,Total,9130,North America,194115984387.199
+9610,Latin America,2002,01/01/2002,Total,842,USA,188955031965.843
+9700,Eastern Asia,2002,01/01/2002,Total,9130,North America,185594769870.476
+9700,Eastern Asia,2000,01/01/2000,Total,9130,North America,183868836775.635
+9700,Eastern Asia,2000,01/01/2000,Total,842,USA,173205745199.029
+9700,Eastern Asia,2001,01/01/2001,Total,842,USA,157198685468.763
+9740,Western Asia,2002,01/01/2002,Total,9100,Developed Economies,132078448994.399
+9740,Western Asia,2001,01/01/2001,Total,9100,Developed Economies,127409160125.8
+9700,Eastern Asia,2002,01/01/2002,Total,9120,Europe,126048270669.69
+9700,Eastern Asia,2000,01/01/2000,Total,9120,Europe,125367012081.895
+9300,Commonwealth of Independent States,2003,01/01/2003,Total,9100,Developed Economies,101223431254.747
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,9100,Developed Economies,82528091266.1827
+9300,Commonwealth of Independent States,2000,01/01/2000,Total,9100,Developed Economies,80405136893.8337
+9730,South-Eastern Asia,2002,01/01/2002,Total,9130,North America,74493126704.3
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,9120,Europe,73256273520.1947
+9730,South-Eastern Asia,2002,01/01/2002,Total,842,USA,71789548325.1372
+9300,Commonwealth of Independent States,2001,01/01/2001,Total,9120,Europe,68336543034.5211
+9740,Western Asia,2002,01/01/2002,Total,9120,Europe,65424558629.507
+9740,Western Asia,2001,01/01/2001,Total,9120,Europe,60085361787.9914
+9730,South-Eastern Asia,2002,01/01/2002,Total,9120,Europe,59702294369.0395
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,9100,Developed Economies,55851647783.2067
+9720,Southern Asia,2002,01/01/2002,Total,9100,Developed Economies,52166637440.2655
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,9120,Europe,43846190679.8853
+9740,Western Asia,2002,01/01/2002,Total,9130,North America,43727065163.1342
+9610,Latin America,2002,01/01/2002,Total,9120,Europe,41824343409.5597
+9610,Latin America,2000,01/01/2000,Total,9120,Europe,41279829990.5819
+9740,Western Asia,2001,01/01/2001,Total,9130,North America,40593840666.7803
+9400,Northern Africa,2001,01/01/2001,Total,9100,Developed Economies,36874062614.5141
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,9120,Europe,33587441438.5066
+9400,Northern Africa,2001,01/01/2001,Total,9120,Europe,32274526234.8048
+9740,Western Asia,2002,01/01/2002,Total,842,USA,28316173765.7202
+9740,Western Asia,2001,01/01/2001,Total,842,USA,27149290542.4685
+9720,Southern Asia,2002,01/01/2002,Total,9120,Europe,26075106459.5359
+9700,Eastern Asia,2002,01/01/2002,Total,276,Germany,25956453758.1798
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,9320,Europe,25146965280.6144
+9700,Eastern Asia,2000,01/01/2000,Total,826,United Kingdom,24714660006.7363
+9700,Eastern Asia,2002,01/01/2002,Total,826,United Kingdom,22664126009.7159
+9500,Sub-Saharan Africa,2000,01/01/2000,Total,842,USA,21638265264.5893
+9700,Eastern Asia,2002,01/01/2002,Total,399,OPEC,20319234972.0674
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,9130,North America,18625328969.4679
+9720,Southern Asia,2002,01/01/2002,Total,9130,North America,18041947937.7251
+9200,South-Eastern Europe,2002,01/01/2002,Total,9100,Developed Economies,17896594445.1206
+9720,Southern Asia,2002,01/01/2002,Total,842,USA,16970632918.3798
+9200,South-Eastern Europe,2002,01/01/2002,Total,9120,Europe,16794171004.1101
+9500,Sub-Saharan Africa,2002,01/01/2002,Total,842,USA,15441281953.268
+9740,Western Asia,2001,01/01/2001,Total,399,OPEC,12510383727.7433
+9730,South-Eastern Asia,2001,01/01/2001,Total,276,Germany,11471464792.0731
+9700,Eastern Asia,2002,01/01/2002,Total,124,Canada,11236881715.6652
+9600,Latin America and the Caribbean,2001,01/01/2001,Total,399,OPEC,10846398776.589
+9730,South-Eastern Asia,2002,01/01/2002,Total,826,United Kingdom,10264149528.3165
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,399,OPEC,10060365974.5146
+9610,Latin America,2002,01/01/2002,Total,399,OPEC,9938653191.32388
+9700,Eastern Asia,2001,01/01/2001,Total,124,Canada,9921353840.33513
+9700,Eastern Asia,2002,01/01/2002,Total,251,France,9592269553.17592
+9700,Eastern Asia,2001,01/01/2001,Total,251,France,9566901997.47572
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,276,Germany,9548441009.44232
+9500,Sub-Saharan Africa,2000,01/01/2000,Total,826,United Kingdom,9254927020.568
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,826,United Kingdom,8899552761.19903
+9730,South-Eastern Asia,2001,01/01/2001,Total,399,OPEC,8092298018.18808
+9400,Northern Africa,2002,01/01/2002,Total,251,France,7804339882.6241
+9720,Southern Asia,2001,01/01/2001,Total,399,OPEC,7577385718.95124
+9740,Western Asia,2001,01/01/2001,Total,251,France,7526777505.23795
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,9130,North America,7257173617.72764
+9740,Western Asia,2001,01/01/2001,Total,276,Germany,7224480008.7026
+9300,Commonwealth of Independent States,2001,01/01/2001,Total,9130,North America,6674483635.97226
+9740,Western Asia,2002,01/01/2002,Total,826,United Kingdom,6576488904.61732
+9610,Latin America,2001,01/01/2001,Total,276,Germany,6455533416.4593
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,276,Germany,6114094231.59487
+9610,Latin America,2002,01/01/2002,Total,276,Germany,6042201154.11701
+9700,Eastern Asia,2002,01/01/2002,Total,9320,Europe,6014943742.81938
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,826,United Kingdom,5938215890.42923
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,826,United Kingdom,5905734470.30651
+9300,Commonwealth of Independent States,2000,01/01/2000,Total,842,USA,5787247952.99906
+9610,Latin America,2000,01/01/2000,Total,826,United Kingdom,5717899951.33284
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,124,Canada,5663270710.33505
+9610,Latin America,2002,01/01/2002,Total,826,United Kingdom,5567749856.70772
+9300,Commonwealth of Independent States,2000,01/01/2000,Total,826,United Kingdom,5454344474.9494
+9610,Latin America,2002,01/01/2002,Total,124,Canada,5154361120.35572
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,251,France,5126735792.10981
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,842,USA,5065394150.88905
+9730,South-Eastern Asia,2001,01/01/2001,Total,251,France,4958295127.51169
+9700,Eastern Asia,2001,01/01/2001,Total,9320,Europe,4761153557.75896
+9720,Southern Asia,2002,01/01/2002,Total,826,United Kingdom,4311195511.8185
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,399,OPEC,4248573817.44812
+9400,Northern Africa,2001,01/01/2001,Total,9130,North America,4122340329.1144
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,276,Germany,3686380372.6112
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,251,France,3668645766.64766
+9720,Southern Asia,2001,01/01/2001,Total,276,Germany,3512042202.52564
+9400,Northern Africa,2001,01/01/2001,Total,842,USA,3414528990.92356
+9200,South-Eastern Europe,2002,01/01/2002,Total,276,Germany,3348504384.58703
+9610,Latin America,2002,01/01/2002,Total,251,France,3325688384.28333
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,251,France,3093850760.04447
+9730,South-Eastern Asia,2000,01/01/2000,Total,124,Canada,2987314130.23605
+9400,Northern Africa,2001,01/01/2001,Total,276,Germany,2812366773.23758
+9500,Sub-Saharan Africa,2002,01/01/2002,Total,399,OPEC,2571566186.64149
+9730,South-Eastern Asia,2001,01/01/2001,Total,124,Canada,2563026742.08823
+9800,Oceania,2002,01/01/2002,Total,9100,Developed Economies,2463699080.6265
+9720,Southern Asia,2001,01/01/2001,Total,251,France,2410345992.46457
+9300,Commonwealth of Independent States,2000,01/01/2000,Total,251,France,2358878185.36932
+9740,Western Asia,2002,01/01/2002,Total,9320,Europe,2324947656.1198
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,9320,Europe,2217282392.82464
+9740,Western Asia,2001,01/01/2001,Total,9320,Europe,1986921774.44191
+9500,Sub-Saharan Africa,2000,01/01/2000,Total,399,OPEC,1929667365.5385
+9610,Latin America,2002,01/01/2002,Total,9320,Europe,1926048870.00699
+9400,Northern Africa,2001,01/01/2001,Total,826,United Kingdom,1369464922.12703
+9400,Northern Africa,2002,01/01/2002,Total,399,OPEC,1362137730.3073
+9200,South-Eastern Europe,2001,01/01/2001,Total,251,France,1327619934.62121
+9720,Southern Asia,2002,01/01/2002,Total,9320,Europe,1132767964.88462
+9200,South-Eastern Europe,2002,01/01/2002,Total,9130,North America,1061259641.67534
+9200,South-Eastern Europe,2002,01/01/2002,Total,826,United Kingdom,1049237415.68167
+9200,South-Eastern Europe,2002,01/01/2002,Total,842,USA,982281379.690864
+9400,Northern Africa,2002,01/01/2002,Total,124,Canada,972915130.746068
+9720,Southern Asia,2001,01/01/2001,Total,124,Canada,956551450.4651
+9610,Latin America,2000,01/01/2000,Total,9320,Europe,952728978.218135
+9730,South-Eastern Asia,2002,01/01/2002,Total,9320,Europe,941677211.930109
+9500,Sub-Saharan Africa,2002,01/01/2002,Total,124,Canada,731447069.279809
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,124,Canada,710847129.288845
+9400,Northern Africa,2001,01/01/2001,Total,124,Canada,707787284.190845
+9740,Western Asia,2000,01/01/2000,Total,124,Canada,670085169.509107
+9740,Western Asia,2001,01/01/2001,Total,124,Canada,637155538.311714
+9200,South-Eastern Europe,2002,01/01/2002,Total,9320,Europe,507468654.973433
+9200,South-Eastern Europe,2002,01/01/2002,Total,399,OPEC,469375686.639791
+9800,Oceania,2002,01/01/2002,Total,9120,Europe,329036915.350205
+9700,Eastern Asia,2001,01/01/2001,Total,581,United States Minor Outlying Islands,241153488
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,9320,Europe,229196651.638568
+9800,Oceania,2002,01/01/2002,Total,9130,North America,189379718.899352
+9800,Oceania,2002,01/01/2002,Total,842,USA,187338713.956823
+9300,Commonwealth of Independent States,2002,01/01/2002,Total,124,Canada,164050318.838596
+9800,Oceania,2001,01/01/2001,Total,251,France,139370438.228957
+9800,Oceania,2002,01/01/2002,Total,826,United Kingdom,99012868.8092963
+9400,Northern Africa,2002,01/01/2002,Total,9320,Europe,90676702.9146214
+9200,South-Eastern Europe,2002,01/01/2002,Total,124,Canada,78956494.9844785
+9800,Oceania,2001,01/01/2001,Total,276,Germany,77202072.1379339
+9800,Oceania,2002,01/01/2002,Total,849,US Misc. Pacific Isds,14337955
+9300,Commonwealth of Independent States,2003,01/01/2003,Total,581,United States Minor Outlying Islands,13911693
+9800,Oceania,2001,01/01/2001,Total,124,Canada,10777568.173557
+9730,South-Eastern Asia,2001,01/01/2001,Total,581,United States Minor Outlying Islands,8872974
+9730,South-Eastern Asia,2002,01/01/2002,Total,581,United States Minor Outlying Islands,8257646
+9740,Western Asia,2002,01/01/2002,Total,581,United States Minor Outlying Islands,1645765
+9600,Latin America and the Caribbean,2000,01/01/2000,Total,581,United States Minor Outlying Islands,432591
+9300,Commonwealth of Independent States,2001,01/01/2001,Total,581,United States Minor Outlying Islands,352453
+9800,Oceania,2002,01/01/2002,Total,9320,Europe,197025.72234489
+9500,Sub-Saharan Africa,2001,01/01/2001,Total,581,United States Minor Outlying Islands,123049
+9610,Latin America,2003,01/01/2003,Total,849,US Misc. Pacific Isds,118479
+9610,Latin America,2002,01/01/2002,Total,581,United States Minor Outlying Islands,37719
+9720,Southern Asia,2002,01/01/2002,Total,581,United States Minor Outlying Islands,37329
+9610,Latin America,2001,01/01/2001,Total,849,US Misc. Pacific Isds,21335
+9200,South-Eastern Europe,2002,01/01/2002,Total,849,US Misc. Pacific Isds,19000
+9610,Latin America,2002,01/01/2002,Total,849,US Misc. Pacific Isds,16100
+9600,Latin America and the Caribbean,2002,01/01/2002,Total,849,US Misc. Pacific Isds,16100
+9740,Western Asia,2002,01/01/2002,Total,849,US Misc. Pacific Isds,10958
