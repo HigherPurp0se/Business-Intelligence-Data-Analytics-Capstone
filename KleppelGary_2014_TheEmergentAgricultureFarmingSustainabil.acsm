@@ -1,0 +1,29 @@
+<fulfillmentToken fulfillmentType="loan" auth="user" xmlns="http://ns.adobe.com/adept">
+  <distributor>urn:uuid:501e16ca-f45c-4a0c-9a9f-8a270a9f2ed6</distributor>
+  <operatorURL>http://rps2images.ebscohost.com/fulfillment</operatorURL>
+  <transaction>ns125356:10911377:803332:1525736455488:1552096250</transaction>
+  <expiration>2018-05-08T01:40:55-04:00</expiration>
+  <resourceItemInfo>
+    <resource>urn:uuid:3c69855b-547a-4af3-97c8-d585a8cdfbe5</resource>
+    <resourceItem>1</resourceItem>
+    <metadata>
+      <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/">The Emergent Agriculture</dc:title>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Kleppel, Gary.</dc:creator>
+      <dc:publisher xmlns:dc="http://purl.org/dc/elements/1.1/">Perseus Books, LLC</dc:publisher>
+      <dc:format xmlns:dc="http://purl.org/dc/elements/1.1/">application/pdf</dc:format>
+      <dc:language xmlns:dc="http://purl.org/dc/elements/1.1/">eng</dc:language>
+    </metadata>
+    <licenseToken>
+      <resource>urn:uuid:3c69855b-547a-4af3-97c8-d585a8cdfbe5</resource>
+      <permissions>
+        <display>
+          <until>2018-05-14T19:40:55-04:00</until>
+        </display>
+        <play>
+          <until>2018-05-14T19:40:55-04:00</until>
+        </play>
+      </permissions>
+    </licenseToken>
+  </resourceItemInfo>
+  <hmac>/IPIPM9CzcMHGnN3yw1CxRcwEDU=</hmac>
+</fulfillmentToken>
